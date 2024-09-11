@@ -6,15 +6,9 @@ I am an expert in robotics and a strong believer in the power of open-source com
 - 🤔 I’m looking for help with the definition of common design patterns for robotics components
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nadia-hammoudeh-garc%C3%ADa-62146b105) nadia.hammoudeh.garcia@ipa.fraunhofer.de  
 
-![GitHub metrics](https://metrics.lecoq.io/ipa-nhg) 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ipa-nhg&show_icons=true&count_private=true&theme=tokyonight)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ipa-nhg)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ipa-nhg)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Profile views](https://gpvc.arturio.dev/ipa-nhg)  
 
 <!-- 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/) [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)
